@@ -1,5 +1,4 @@
 import io.spring.gradle.dependencymanagement.dsl.DependencyManagementExtension
-import name.remal.gradle_plugins.sonarlint.SonarLintExtension
 import org.springframework.boot.gradle.plugin.SpringBootPlugin.BOM_COORDINATES
 import org.gradle.plugins.ide.idea.model.IdeaLanguageLevel
 
