@@ -1,4 +1,4 @@
-package main.java.ru.otus;
+package ru.otus;
 
 public class App {
     public static void main(String[] args) {
